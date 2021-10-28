@@ -1,0 +1,7 @@
+C:\Users\Sergey\source\repos\CourseProject(.Net Framework)\bin\Debug\CourseProject(.Net Framework).exe.config
+C:\Users\Sergey\source\repos\CourseProject(.Net Framework)\bin\Debug\CourseProject(.Net Framework).exe
+C:\Users\Sergey\source\repos\CourseProject(.Net Framework)\bin\Debug\CourseProject(.Net Framework).pdb
+C:\Users\Sergey\source\repos\CourseProject(.Net Framework)\obj\Debug\CourseProject(.Net Framework).csprojAssemblyReference.cache
+C:\Users\Sergey\source\repos\CourseProject(.Net Framework)\obj\Debug\CourseProject(.Net Framework).csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\CourseProject(.Net Framework)\obj\Debug\CourseProject(.Net Framework).exe
+C:\Users\Sergey\source\repos\CourseProject(.Net Framework)\obj\Debug\CourseProject(.Net Framework).pdb
